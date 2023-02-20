@@ -1,0 +1,14 @@
+{
+  "name": "ShopKeeper",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.9.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
